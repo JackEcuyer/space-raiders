@@ -1,2 +1,2 @@
 # space-raiders
-A simple space invaders type game created to improve my object oriented programming skills using the P5 JS library
+A space invaders type game created to improve my object oriented programming skills using the p5.js library
